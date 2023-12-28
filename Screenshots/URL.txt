@@ -1,2 +1,0 @@
-local host: http://52.90.254.133/
-Docker uRl : https://hub.docker.com/repositories/nandha98
